@@ -56,20 +56,5 @@ void a() {
 	}
 }
 
-int main(int argc, char const *argv[]) {
-    int t = 1;
-    // cin>> t;
-    while (t--) {
-        a();
-        // cout<<fixed<<setprecision(6)<< f();
-        // cout<<"/";
-        // cout<<b()<<endl;
-        cout<<endl;
-    }
-    
-    
-    // d();
-    return 0;
-}
- 
+
 
